@@ -1,4 +1,5 @@
 # MATLAB-Igor-Import
-Export data from Igor Pro to MATLAB
 
-Note ECCLES Analysis assumes data was collected in .ibt file using ECCLES Collect v7.3 or later.
+MATLAB files to import data from Igor Pro. Use load_ibw() to read .ibw files into MATLAB memory.
+
+Note: -Must be exported into .ibw files using ECCLES Analysis v5.4 or later. 
