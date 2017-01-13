@@ -1,4 +1,4 @@
-# MATLAB-Igor-Import (Burke, 2014)
+# MATLAB-Igor-Import
 
 MATLAB files to import data from Igor Pro.
 
